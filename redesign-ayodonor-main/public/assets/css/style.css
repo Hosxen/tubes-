@@ -1,0 +1,42 @@
+body {
+    background-color: #F9F2F2;
+}
+
+.bg-grey10 {
+    background-color: #F9F2F2;
+}
+
+.bg-red100 {
+    background-color: #CE0606;
+}
+
+.bg-red95 {
+    background-color: #FC0909;
+}
+
+.bg-red90 {
+    background-color: #EC4444;
+}
+
+.bg-red10 {
+    background-color: #ECDEDE;
+}
+
+.bg-white {
+    background-color: white;
+}
+
+.devider-bottom {
+    border-bottom: 4px solid #333;
+}
+
+.devider-top {
+    border-top: 4px solid darkred;
+}
+
+.carousel-img {
+    object-fit: none; /* Do not scale the image */
+    object-position: center; /* Center the image within the element */
+    width: 100%;
+
+}
